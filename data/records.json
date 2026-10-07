@@ -1,0 +1,42 @@
+[
+    {
+        "id": "EMP-2",
+        "name": "Vaibhav Dingankar",
+        "email": "vaibhavdo@ok.com",
+        "department": 1,
+        "salary": 14000.0,
+        "updated_at": "2026-10-06T10:23:29.335832",
+        "created_at": "2026-10-04T20:07:40.063035",
+        "deleted_at": null
+    },
+    {
+        "id": "EMP-3",
+        "name": "Sapna",
+        "email": "sanp@12.com",
+        "department": 4,
+        "salary": 19000.0,
+        "updated_at": "2026-10-07T11:07:29.933115",
+        "created_at": "2026-10-04T20:08:48.086270",
+        "deleted_at": null
+    },
+    {
+        "id": "EMP-4",
+        "name": "Snehal",
+        "email": "sneekar@ok.com",
+        "department": 2,
+        "salary": 5000.0,
+        "updated_at": null,
+        "created_at": "2026-10-07T11:03:11.733019",
+        "deleted_at": null
+    },
+    {
+        "id": "EMP-5",
+        "name": "Omkar",
+        "email": "omkar@mi.com",
+        "department": 1,
+        "salary": 50000.0,
+        "updated_at": null,
+        "created_at": "2026-10-07T11:03:57.872686",
+        "deleted_at": null
+    }
+]

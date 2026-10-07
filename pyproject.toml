@@ -1,0 +1,25 @@
+[project]
+name = "employee-management-system"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "AumkarGorde",email = "gordeaumkar@outlook.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "tabulate (>=0.10.0,<0.11.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.1.1"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

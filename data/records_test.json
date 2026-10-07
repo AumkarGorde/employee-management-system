@@ -1,0 +1,12 @@
+[
+    {
+        "id": "EMP-1",
+        "name": "Omkar Gorde",
+        "email": "omkarpgorde@morningstar.com",
+        "department": 1,
+        "salary": 11200,
+        "updated_at": null,
+        "created_at": "2026-10-04T16:48:13.448236",
+        "deleted_at": null
+    }
+]
